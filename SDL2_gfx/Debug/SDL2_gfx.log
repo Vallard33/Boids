@@ -1,0 +1,15 @@
+﻿  SDL2_framerate.c
+C:\Users\hfruc\Downloads\ant-war-2023-win\ant-war-2023-win\SDL2_gfx\src\SDL2_framerate.h(40,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  (compiler le fichier source 'src/SDL2_framerate.c')
+  
+  SDL2_gfxPrimitives.c
+C:\Users\hfruc\Downloads\ant-war-2023-win\ant-war-2023-win\SDL2_gfx\src\SDL2_gfxPrimitives.h(38,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  (compiler le fichier source 'src/SDL2_gfxPrimitives.c')
+  
+  SDL2_imageFilter.c
+C:\Users\hfruc\Downloads\ant-war-2023-win\ant-war-2023-win\SDL2_gfx\src\SDL2_imageFilter.c(45,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  SDL2_rotozoom.c
+C:\Users\hfruc\Downloads\ant-war-2023-win\ant-war-2023-win\SDL2_gfx\src\SDL2_rotozoom.h(44,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  (compiler le fichier source 'src/SDL2_rotozoom.c')
+  
+  Génération de code en cours...
