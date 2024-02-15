@@ -1,0 +1,14 @@
+﻿  SDL2_framerate.c
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\SDL2_gfx\src\SDL2_framerate.h(40,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  (compiler le fichier source 'src/SDL2_framerate.c')
+  
+  SDL2_gfxPrimitives.c
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\SDL2_gfx\src\SDL2_gfxPrimitives.h(38,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  (compiler le fichier source 'src/SDL2_gfxPrimitives.c')
+  
+  SDL2_imageFilter.c
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\SDL2_gfx\src\SDL2_imageFilter.c(45,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  SDL2_rotozoom.c
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\SDL2_gfx\src\SDL2_rotozoom.h(44,10): error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  (compiler le fichier source 'src/SDL2_rotozoom.c')
+  

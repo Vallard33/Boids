@@ -132,6 +132,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\Boid.cpp" />
+    <ClCompile Include="src\Exception.cpp" />
     <ClCompile Include="src\main.cxx" />
   </ItemGroup>
   <ItemGroup>

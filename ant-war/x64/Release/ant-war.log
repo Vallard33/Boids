@@ -1,0 +1,120 @@
+﻿  main.cxx
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(28,18): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(31,13): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(31,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(31,28): error C2238: jetons inattendus avant ';'
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(32,15): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(32,15): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(32,32): error C2238: jetons inattendus avant ';'
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(66,6): error C2182: « paint_triangle » : cette utilisation de « void » n’est pas valide
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(66,21): error C2065: 'SDL_Renderer' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(66,35): error C2065: 'renderer' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(66,45): error C2062: type 'double' inattendu
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(66,111): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(66,111): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(127,27): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(127,97): error C2065: 'SDL_ALPHA_OPAQUE' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(127,2): error C3861: 'SDL_SetRenderDrawColor' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(135,19): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(135,2): error C2064: le terme ne correspond pas à une fonction qui prend 7 arguments
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(151,27): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(151,55): error C2065: 'SDL_ALPHA_OPAQUE' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(151,2): error C3861: 'SDL_SetRenderDrawColor' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(152,20): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(152,2): error C3861: 'SDL_RenderClear' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(154,22): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(154,2): error C3861: 'SDL_RenderPresent' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(159,36): warning C4244: 'argument' : conversion de 'const double' en 'int', perte possible de données
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(159,26): warning C4244: 'argument' : conversion de 'const double' en 'int', perte possible de données
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(163,15): error C2065: 'SDL_INIT_VIDEO' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(163,32): error C2065: 'SDL_INIT_AUDIO' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(163,49): error C2065: 'SDL_INIT_EVENTS' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(163,67): error C2065: 'SDL_INIT_TIMER' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(163,6): error C3861: 'SDL_Init' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(167,4): error C2039: 'window' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(168,4): error C2065: 'SDL_WINDOWPOS_UNDEFINED' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(168,29): error C2065: 'SDL_WINDOWPOS_UNDEFINED' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(169,19): error C2065: 'SDL_WINDOW_SHOWN' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(167,13): error C3861: 'SDL_CreateWindow' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(170,12): error C2039: 'window' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(175,4): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(175,36): error C2039: 'window' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(175,15): error C3861: 'SDL_CreateRenderer' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(176,12): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(182,3): error C2065: 'SDL_Event' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(182,13): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'event'
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(182,13): error C2065: 'event' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(183,29): error C2065: 'event' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(183,7): error C3861: 'SDL_WaitEventTimeout' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(184,12): error C2065: 'event' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(185,9): error C2065: 'SDL_WINDOWEVENT' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(185,9): error C2131: l'expression n'a pas été évaluée en constante
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(185,9):
+  nous avons rencontré une (sous-)expression non constante
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(186,13): error C2065: 'event' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(187,11): error C2065: 'SDL_WINDOWEVENT_CLOSE' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(187,11): error C2131: l'expression n'a pas été évaluée en constante
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(187,11):
+  nous avons rencontré une (sous-)expression non constante
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(190,11): error C2065: 'SDL_WINDOWEVENT_SIZE_CHANGED' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(190,11): error C2131: l'expression n'a pas été évaluée en constante
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(190,11):
+  nous avons rencontré une (sous-)expression non constante
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(197,9): error C2065: 'SDL_KEYDOWN' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(197,9): error C2131: l'expression n'a pas été évaluée en constante
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(197,9):
+  nous avons rencontré une (sous-)expression non constante
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(198,9): error C2065: 'event' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(198,33): error C2065: 'SDLK_ESCAPE' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(202,9): error C2065: 'SDL_KEYUP' : identificateur non déclaré
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(202,9): error C2131: l'expression n'a pas été évaluée en constante
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(202,9):
+  nous avons rencontré une (sous-)expression non constante
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(207,21): error C3861: 'SDL_GetError' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(220,24): error C2039: 'renderer' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(220,2): error C3861: 'SDL_DestroyRenderer' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(221,22): error C2039: 'window' n'est pas membre de 'global_t'
+  C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(30,8):
+  voir la déclaration de 'global_t'
+  
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(221,2): error C3861: 'SDL_DestroyWindow' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(222,2): error C3861: 'SDL_CloseAudio' : identificateur introuvable
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(223,2): error C3861: 'SDL_Quit' : identificateur introuvable

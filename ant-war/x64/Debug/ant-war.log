@@ -1,29 +1,8 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (ant-war.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
   Boid.cpp
-  main.cxx
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(27,18): warning C4305: 'initialisation' : troncation de 'double' à 'float'
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4838: la conversion de 'T' en 'int' requiert une conversion restrictive
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4838:         with
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4838:         [
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4838:             T=double
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4838:         ]
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4244:         with
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4244:         [
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4244:             T=double
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,40): warning C4244:         ]
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4838: la conversion de 'T' en 'int' requiert une conversion restrictive
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4838:         with
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4838:         [
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4838:             T=double
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4838:         ]
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4244:         with
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4244:         [
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4244:             T=double
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(60,69): warning C4244:         ]
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(74,33): warning C4244: 'argument' : conversion de 'const double' en 'int', perte possible de données
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(74,23): warning C4244: 'argument' : conversion de 'const double' en 'int', perte possible de données
-C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\main.cxx(76,6): warning C4101: 'status' : variable locale non référencée
-  Génération de code en cours...
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\Boid.cpp(35,22): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\Boid.cpp(36,22): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\Boid.cpp(37,22): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\Boid.cpp(77,22): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\ant-war\src\Boid.cpp(93,22): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
   ant-war.vcxproj -> C:\Users\Valentin\cours-info\wetransfer_ant-war-2023-win_2023-12-19_1328\Boids\x64\Debug\Boids.exe
