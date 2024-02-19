@@ -39,23 +39,11 @@ struct global_t {
 };
 
 global_t g;
-/*
-void paint_it_s_work(int ox, int oy, int scale = 20) {
-	SDL_SetRenderDrawColor(g.renderer, 0u, 0u, 0u, SDL_ALPHA_OPAQUE);
-	for (int j = 0; j < px::height; ++j) {
-		for (int i = 0; i < px::width; ++i) {
-			if (px::header_data[j*px::width+i] == 0) {
-				SDL_Rect r = { i*scale+ox, j*scale+oy, 20, 20 };
-				SDL_RenderFillRect(g.renderer, &r);
-			}
-		}
-	}
-}
-*/
+
 
 
 double inverse(double x) {
-	if (((x > 0) && (x < 0.15)) || ((x > -0.15) && (x < 0))) {
+	if (((x > 0) && (x < 0.15)) || ((x > -0.15) && (x < 0))) { //On fixe le zéro à 0.15 pour éviter que les triangles se transforment en trait pendant l'affichage
 		throw Exception ("division par zero");
 	}
 	else {
@@ -83,7 +71,7 @@ void paint_triangle(SDL_Renderer* renderer, double x1, double y1, double x2, dou
 		std::swap(miny, inty);
 		std::swap(xminy, xinty);
 	};
-	// Parcourir chaque ligne verticale du triangle
+	// On parcourt chaque ligne verticale du triangle pour trouver les abscisses minimales et maximales pour chaque ligne puis on trace ces lignes
 	double xmin;
 	double xmax;
 	for (int y = miny; y <= inty; y++) {
@@ -124,6 +112,7 @@ void paint_triangle(SDL_Renderer* renderer, double x1, double y1, double x2, dou
 
 
 void paint_boid(Boid boid, int taille) {
+	//On trace un oiseau, grâce à sa couleur, ses coordonnées et sa direction (sa vitesse)
 	SDL_SetRenderDrawColor(g.renderer, boid.get_color_r(), boid.get_color_g(), boid.get_color_b(), SDL_ALPHA_OPAQUE);
 	Pair<double> p = boid.get_pos();
 	double p_x = p.get_first();
